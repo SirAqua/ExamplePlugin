@@ -6,9 +6,9 @@ version: "1.0.0"
 api: ["1.0.0"]
 
 load: POSTWORLD
-author: Nukkit Project
-description: Example plugin showing the API
-website: https://github.com/Nukkit/ExamplePlugin
+author: SirAqua
+description: Example plugin showing the Nukkit API
+website: https://github.com/SirAqua/ExamplePlugin
 commands:
   example:
     description: Example command
